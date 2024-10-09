@@ -41,6 +41,7 @@ export const MenuScreenStyled = styled.div`
                 font-family: "Courgette", cursive;
                 color: white;
                 margin-bottom: 1vw;
+                font-size: 1vw;
             }
             
             h2 {
